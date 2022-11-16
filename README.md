@@ -1,6 +1,5 @@
 - :relaxed: Hi, I’m Jaimie Greasley (@Jaim-gem).
-- :woman_scientist::atom: I’m interested in Quantum physics, Quantum computing and Quantum machine learning. 
-- :books::computer: I’m currently learning Quantum Machine Learning with Qiskit. 
+- :woman_scientist::atom: I’m interested in Quantum mechanics, Quantum computing for Optimization & Machine Learning. 
 - :email: How to reach me: jaimie.greasley@gmail.com. Also on LinkedIn as "Jaimie Greasley". 
 
 <!---
