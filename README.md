@@ -1,4 +1,4 @@
-- :relaxed: Hi, I’m Jaimie Greasley (@Jaim-gem).
+- :relaxed: Hi, I’m Jaimie (@Jaim-gem).
 - :woman_scientist::atom: I’m interested in Quantum Computing for Optimization & Machine Learning problems in Materials modelling. 
 - :email: How to reach me: jaimie.greasley@gmail.com. Also on LinkedIn as ["Jaimie Greasley"](https://www.linkedin.com/in/jaimiegreasley/).  
 - :bookmark_tabs: And on [Research Gate](https://www.researchgate.net/profile/Jaimie-Greasley).
